@@ -15,7 +15,7 @@ namespace TemplarCombo
         private static bool _activated;
         private static Font _txt;
         private static Font _not;
-        private const Key KeyCombo = Key.E;
+        private const Key KeyCombo = Key.Space;
         private const Key BkbToggleKey = Key.F;
         private static bool _bkbToggle;
         private static Hero _me;
